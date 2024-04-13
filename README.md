@@ -1,1 +1,1 @@
-## Criando projeto profissional do zero - HTML, CSS, TailwindCSS, JavaScript
+## Criando projeto do zero - HTML, CSS, TailwindCSS, JavaScript
